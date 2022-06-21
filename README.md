@@ -1,6 +1,8 @@
 # Environment_prepearation
 this is a step-by-step guide to help new students to work on a virtual box to deal with ubuntu in Unix environment.
 please follow these steps sequentially:
+
+
 1- Download step:
       a- Virtual box([link](https://www.virtualbox.org/)) 	or	VMware player([link](https://www.vmware.com/products/workstation-player.html)).
       b- Python([link_here](https://www.python.org/downloads/)).
