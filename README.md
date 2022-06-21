@@ -16,3 +16,4 @@ please follow these steps sequentially:
    
    		Note: (3) is the version of the downloaded python at your device.
 		Note2: you can copy paste your command at the terminal using( Ctrl + c >>>>>>for copy, and Ctrl + Shift + v >>>>> for paste).
+ And that's it!
