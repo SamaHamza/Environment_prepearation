@@ -15,5 +15,5 @@ please follow these steps sequentially:
 5- finally, after the creation process is over you need to open the terminel inside the virtual machine by searching it on the search bar or by pressing[ Ctrl + Shift + t] >>>> type the follow command: [sudo apt install python3-pip].
    
    		Note: (3) is the version of the downloaded python at your device.
-		Note2: you can copy paste your command at the terminal using( Ctrl + c >>>>>>for copy, and Ctrl + Shift + v >>>>> for paste).
+		       you can copy paste your command at the terminal using( Ctrl + c >>>>>>for copy, and Ctrl + Shift + v >>>>> for paste).
  And that's it!
